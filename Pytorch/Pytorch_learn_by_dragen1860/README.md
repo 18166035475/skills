@@ -6,8 +6,6 @@
 
 **Course supported by ：**[study.163.com](https://study.163.com/course/introduction.htm?share=2&shareId=480000001847407&courseId=1208894818&_trace_c_p_k2_=8a8366d9089e4893bd047e62)
 
-
-
 # 食用方法
 
 - 选择**pytorch**作为深度学习的框架，如若了解**tensorflow**，可以联想对比一下两者的异同处，个人觉得**tensorflow2**和**pytorch**十分类似
