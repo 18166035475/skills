@@ -1,6 +1,6 @@
 # 课程
 
-![](images/dragen_pytorch_dl.jpg)
+![](https://github.com/tsuirak/skills/blob/master/Pytorch/Pytorch_learn_by_dragen1860/images/dragen_pytorch_dl.jpg)
 
 **Code supported by ：**[dragen1860](https://github.com/dragen1860)
 
